@@ -1,0 +1,420 @@
+{
+  "f1": {
+    "FontName": "Nimbus",
+    "CharNames": {
+      "0": "zero",
+      "1": "one",
+      "2": "two",
+      "3": "three",
+      "4": "four",
+      "5": "five",
+      "6": "six",
+      "7": "seven",
+      "8": "eight",
+      "9": "nine",
+      " ": "space",
+      "%": "percent",
+      "(": "parenleft",
+      ")": "parenright",
+      "+": "plus",
+      ",": "comma",
+      "-": "hyphen",
+      ".": "period",
+      "/": "slash",
+      ":": "colon",
+      "=": "equal",
+      "?": "question",
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F",
+      "G": "G",
+      "H": "H",
+      "I": "I",
+      "J": "J",
+      "L": "L",
+      "M": "M",
+      "N": "N",
+      "O": "O",
+      "P": "P",
+      "R": "R",
+      "S": "S",
+      "T": "T",
+      "U": "U",
+      "V": "V",
+      "W": "W",
+      "X": "X",
+      "Y": "Y",
+      "a": "a",
+      "b": "b",
+      "c": "c",
+      "d": "d",
+      "e": "e",
+      "f": "f",
+      "g": "g",
+      "h": "h",
+      "i": "i",
+      "j": "j",
+      "k": "k",
+      "l": "l",
+      "m": "m",
+      "n": "n",
+      "o": "o",
+      "p": "p",
+      "q": "q",
+      "r": "r",
+      "s": "s",
+      "t": "t",
+      "u": "u",
+      "v": "v",
+      "w": "w",
+      "x": "x",
+      "y": "y",
+      "°": "degree",
+      "×": "multiply",
+      "–": "endash",
+      "—": "emdash",
+      "‘": "quoteleft",
+      "’": "quoteright"
+    }
+  },
+  "f10": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f11": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f12": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f13": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f14": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f15": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f16": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f17": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f18": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f19": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1a": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1b": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1c": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1d": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1e": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f1f": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f2": {
+    "FontName": "Nimbus",
+    "CharNames": {
+      "1": "one",
+      "2": "two",
+      "3": "three",
+      "4": "four",
+      "5": "five",
+      " ": "space",
+      "(": "parenleft",
+      ")": "parenright",
+      ",": "comma",
+      ".": "period",
+      ":": "colon",
+      "?": "question",
+      "A": "A",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F",
+      "G": "G",
+      "H": "H",
+      "I": "I",
+      "L": "L",
+      "M": "M",
+      "N": "N",
+      "O": "O",
+      "P": "P",
+      "R": "R",
+      "S": "S",
+      "T": "T",
+      "U": "U",
+      "V": "V",
+      "W": "W",
+      "X": "X",
+      "a": "a",
+      "b": "b",
+      "c": "c",
+      "d": "d",
+      "e": "e",
+      "f": "f",
+      "g": "g",
+      "h": "h",
+      "i": "i",
+      "k": "k",
+      "l": "l",
+      "m": "m",
+      "n": "n",
+      "o": "o",
+      "p": "p",
+      "r": "r",
+      "s": "s",
+      "t": "t",
+      "u": "u",
+      "v": "v",
+      "x": "x",
+      "y": "y"
+    }
+  },
+  "f20": {
+    "FontName": "Standard",
+    "CharNames": {
+      " ": "space",
+      "×": "multiply"
+    }
+  },
+  "f21": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f22": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f23": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f24": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f3": {
+    "FontName": "TT30FT00",
+    "CharNames": {
+      " ": "space",
+      "l": "l"
+    }
+  },
+  "f4": {
+    "FontName": "XUFCJZ+Arial",
+    "CharNames": {
+      "0": "zero",
+      "1": "one",
+      "2": "two",
+      " ": "space",
+      "-": "hyphen"
+    }
+  },
+  "f5": {
+    "FontName": "Nimbus",
+    "CharNames": {
+      "0": "zero",
+      "1": "one",
+      "2": "two",
+      "3": "three",
+      "6": "six",
+      " ": "space",
+      "!": "exclam",
+      ",": "comma",
+      ".": "period",
+      "A": "A",
+      "C": "C",
+      "F": "F",
+      "L": "L",
+      "M": "M",
+      "T": "T",
+      "a": "a",
+      "b": "b",
+      "c": "c",
+      "d": "d",
+      "e": "e",
+      "f": "f",
+      "g": "g",
+      "h": "h",
+      "i": "i",
+      "j": "j",
+      "k": "k",
+      "l": "l",
+      "m": "m",
+      "n": "n",
+      "o": "o",
+      "p": "p",
+      "r": "r",
+      "s": "s",
+      "t": "t",
+      "u": "u",
+      "v": "v",
+      "w": "w",
+      "x": "x",
+      "y": "y"
+    }
+  },
+  "f6": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f7": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f8": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "f9": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "fa": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "fb": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "fc": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "fd": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "fe": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  },
+  "ff": {
+    "FontName": "TT2EFT00",
+    "CharNames": {
+      " ": "space",
+      "`": "grave"
+    }
+  }
+}
