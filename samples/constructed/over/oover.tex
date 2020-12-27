@@ -1,0 +1,31 @@
+\documentclass[10pt]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{stmaryrd}
+\usepackage{bbm}
+\usepackage[T1]{fontenc}
+\usepackage{accents}
+\usepackage{mathtools}
+\usepackage[total={1.08in,0.93in},paper=a4paper]{geometry}
+\usepackage{ifthen}
+\pagestyle{empty}
+
+\scrollmode
+
+%% Macro Definitions
+\usepackage{hyperref}
+\pdfstringdef\bslash{\textbackslash}
+\ifthenelse{\isundefined{\fcmra}}{\newfont{\fcmra}{cmr10} \def\cmra#1{\text{\fcmra{#1}}}}{}
+
+\begin{document}
+
+\[\cmra{flex}{ a }\pdfannot height 0em{/Subtype/Text/T(LaTeX Code)/Contents(flex{ a })}\pdfannot height 2em{/Subtype/Text/T(MathML)/Contents(<mover accent='true'> <mi>flex</mi>
+   <mi>a</mi>
+ </mover>
+)}\quad\]
+
+
+
+\newpage
+
+
+\end{document}

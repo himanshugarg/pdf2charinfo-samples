@@ -1,0 +1,34 @@
+{
+  "srcPDF": "",
+  "page": 0,
+  "pageWidth": 2380,
+  "pageHeight": 3370,
+  "clipX": 0,
+  "clipY": 0,
+  "clipWidth": 2380,
+  "clipHeight": 3370,
+  "clipImage": "",
+  "symbols": [
+    {
+      "bbox": {
+        "x": null,
+        "y": null,
+        "w": null,
+        "h": null
+      },
+      "glyphs": [],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "y",
+            "bx": null,
+            "by": null,
+            "font": "CMMI7",
+            "scale": 6.972056985753561
+          }
+        ]
+      ]
+    }
+  ]
+}

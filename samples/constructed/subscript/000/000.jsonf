@@ -1,0 +1,75 @@
+{
+  "srcPDF": "",
+  "page": 0,
+  "pageWidth": 2380,
+  "pageHeight": 3370,
+  "clipX": 0,
+  "clipY": 0,
+  "clipWidth": 2380,
+  "clipHeight": 3370,
+  "clipImage": "",
+  "symbols": [
+    {
+      "bbox": {
+        "x": 597,
+        "y": 521,
+        "w": 19,
+        "h": 17
+      },
+      "glyphs": [
+        {
+          "x": 597,
+          "y": 521,
+          "w": 19,
+          "h": 17
+        }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "x",
+            "bx": 597,
+            "by": 521,
+            "font": "CMMI10",
+            "scale": 39.8504
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": {
+        "x": 617,
+        "y": 527,
+        "w": 8,
+        "h": 18
+      },
+      "glyphs": [
+        {
+          "x": 617,
+          "y": 533,
+          "w": 8,
+          "h": 12
+        },
+        {
+          "x": 622,
+          "y": 527,
+          "w": 2,
+          "h": 2
+        }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 617,
+            "by": 527,
+            "font": "CMMI7",
+            "scale": 27.8952
+          }
+        ]
+      ]
+    }
+  ]
+}

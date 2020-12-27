@@ -1,0 +1,15 @@
+{
+  "f1": {
+    "FontName": "Calibri",
+    "CharNames": {
+      " ": "space",
+      "!": "exclam",
+      "\"": "quotedbl",
+      "d": "d",
+      "r": "r",
+      "ᴹ": "uni1D39",
+      " ": "uni2009",
+      "◌": "uni25CC"
+    }
+  }
+}
