@@ -1,3 +1,9 @@
 **/*.afm
 **/*.ttf
 **/*.ttx
+
+**/*.jsonf
+**/*.tex
+**/*.lin
+**/*.bb
+**/font_info.json
