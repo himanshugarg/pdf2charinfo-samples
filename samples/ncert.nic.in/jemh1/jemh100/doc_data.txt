@@ -1,0 +1,81 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: PageMaker 7.0
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20200421163511+05&apos;30&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20171208125547Z
+InfoBegin
+InfoKey: Producer
+InfoValue: GPL Ghostscript 8.15
+InfoBegin
+InfoKey: Author
+InfoValue: NCERT
+InfoBegin
+InfoKey: Title
+InfoValue: Prelims.pmd
+PdfID0: 370d7e4fea179babfab47acf3a269a3a
+PdfID1: c5b503448f04ba43a6e7c3ed5bb5d55e
+NumberOfPages: 12
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 504 720
+PageMediaDimensions: 504 720
